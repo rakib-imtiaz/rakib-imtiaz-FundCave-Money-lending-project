@@ -1,0 +1,11 @@
+1,Dr. Ahmed Khan,Cardiologist,MBBS; MD,+8801XXXXXXXXX,dr.ahmed@example.com,password123
+2,Dr. Farah Islam,Dermatologist,MBBS; FCPS,+8801XXXXXXXXX,dr.farah@example.com,doctor456
+3,Dr. Mohammad Rahman,Orthopedic Surgeon,MBBS; MS,+8801XXXXXXXXX,dr.mohammad@example.com,securepass
+4,Dr. Tasnim Akter,Pediatrician,MBBS;DCH,+8801XXXXXXXXX,dr.tasnim@example.com,pass789
+5,Dr. Sharmin Chowdhury,Gynecologist,MBBS;MD,+8801XXXXXXXXX,dr.sharmin@example.com,p@ssword123
+6,Dr. Nasir Uddin,Neurologist,MBBS;FCPS,+8801XXXXXXXXX,dr.nasir@example.com,secure123
+7,Dr. Shireen Akter,Ophthalmologist,MBBS;MS,+8801XXXXXXXXX,dr.shireen@example.com,passcode456
+8,Dr. Imran Ahmed,ENT Specialist,MBBS;DLO,+8801XXXXXXXXX,dr.imran@example.com,doctor007
+9,Dr. Farzana Khan,Psychiatrist,MBBS;FCPS,+8801XXXXXXXXX,dr.farzana@example.com,psych123
+10,Dr. Tanveer Hossain,General Physician,MBBS,+8801XXXXXXXXX,dr.tanveer@example.com,general456
+11,Dr. Rakib Hossain,General Physician,MBBS,+8801XXXXXXXXX,rakib@gmail.com,12345

@@ -1,0 +1,6 @@
+1,John Doe,30,Male,+1234567890,john@example.com,pass123
+2,Jane Smith,25,Female,+9876543210,jane@example.com,patient456
+3,Michael Johnson,45,Male,+1112223333,michael@example.com,mike789
+4,Emily Brown,28,Female,+5556667777,emily@example.com,emily123
+5,rakib,27,male,01234567,rakib@gmail.com,12345
+6,raiyan,26,male,012345678,raiyan@gmail.com,12345
